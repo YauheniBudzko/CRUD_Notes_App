@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = window.location.hostname === 'jackychan0201.github.io' 
+const API_URL = window.location.hostname === 'yauhenibudzko.github.io' 
   ? process.env.REACT_APP_API_URL_PROD
   :  process.env.REACT_APP_API_URL_DEV;
 
