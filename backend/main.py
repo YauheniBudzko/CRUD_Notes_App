@@ -26,7 +26,7 @@ collection = db["notes"]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://jackychan0201.github.io",
+    allow_origins=["https://yauhenibudzko.github.io",
                    "http://localhost:3000",
                    "http://127.0.0.1:3000"],
     allow_credentials=True,
