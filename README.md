@@ -91,6 +91,6 @@ https://jackychan0201.github.io/CRUD/
 ## Found a bug?
 If you found an issue while testing the app or you would like to submit an improvement for the project, I encourage you to contact me via my email: zheniabudko@gmail.com
 
-## Work in progress
-I am currently working on:
-- Editing the note
+## Author
+
+Created by Yauheni Budzko
