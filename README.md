@@ -83,7 +83,7 @@ npm start
 
 ## Deployed application
 The application is already deployed. You can access it via:
-https://jackychan0201.github.io/CRUD/
+https://yauhenibudzko.github.io/CRUD/
 >[!WARNING]
 >
 >Since the free tier version of Render is used for the backend deployment, the backend might be inactive during the test. If this problem occurs, please feel free to contact me, I will restart the backend.
