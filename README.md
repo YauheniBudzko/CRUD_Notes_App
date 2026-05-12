@@ -32,11 +32,11 @@ The application's parts are deployed separately:
 Here are the steps for local testing of the application:
 - Clone the project:
 ```bash
-git clone https://github.com/Jackychan0201/CRUD.git
+git clone https://github.com/Jackychan0201/CRUD_notes_app.git
 ```
 - Navigate to the project directory:
 ```bash
-cd CRUD
+cd CRUD_notes_app
 ```
 - Navigate to the backend directory:
 ```bash
